@@ -1,9 +1,11 @@
 # Hi there:
 I am Yevheniia!👋<br><br>💻 I’m currently working on a Full Stack Web Project<br>📖 I’m currently learning Java, Jest and Next.js<br>
 
-# 💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,git,mongodb,nodejs,express,react,java,postman,vite,vscode,idea,jest,figma)](https://skillicons.dev)
+<h2>Languages:</h2>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,mongodb,nodejs,express,react,java)](https://skillicons.dev)
 
+<h2>Tools:</h2>
+[![My Skills](https://skillicons.dev/icons?i=git,postman,vite,vscode,idea,jest,figma)](https://skillicons.dev)
 
 ---
 
