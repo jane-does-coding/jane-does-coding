@@ -16,3 +16,21 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YevheniiaSimaka&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
+
+
+<div align="center">
+  <img src="your_image_url_here" alt="Your Image" width="300"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>About Me</h2>
+  <p>Your brief introduction here.</p>
+</div>
+
+<div align="center">
+  <h2>Skills</h2>
+  <p>Your skills list here.</p>
+</div>
+
