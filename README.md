@@ -17,20 +17,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=YevheniiaSimaka&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 ---
-
-|||---|||
-#### Columns
-
-can save space.
-
-#### Prettify
-
-the page layout.
-
-*** promo
-#### Can be
-
-trendy.
-***
-|||---|||
-
