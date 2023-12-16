@@ -2,7 +2,6 @@ I am Yevheniia!👋<br><br>💻 I’m currently working on a Full Stack Web Proj
 
 ##Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,materialui,mongodb,nodejs,express,react,java)](https://skillicons.dev)
-https://skillicons.dev/icons?i=js,html,css,tailwind,materialui,mongodb,nodejs,express,react,java)](https://skillicons.dev)
 
 ##Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,postman,vite,vscode,idea,jest,figma)](https://skillicons.dev)
