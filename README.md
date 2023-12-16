@@ -10,6 +10,7 @@
 ## Learning:
 [![My Skills](https://skillicons.dev/icons?i=java,jest,nextjs)](https://skillicons.dev)
 
+<br>
 
 ---
 ### :fire: My Stats :
