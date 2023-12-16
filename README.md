@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,tailwind,mongodb,nodejs,express,react,)](https://skillicons.dev)
 
 ## Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,postman,vite,vscode,idea,atom)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,vite,vscode,idea,atom,figma)](https://skillicons.dev)
 
 ## Learning:
 [![My Skills](https://skillicons.dev/icons?i=java,jest,nextjs)](https://skillicons.dev)
