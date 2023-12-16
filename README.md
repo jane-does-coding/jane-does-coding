@@ -18,15 +18,3 @@
 
 ---
 
-<div style={{display: "flex", flex-direction: "row"}}>
-<div align="center">
-  <h2>About Me</h2>
-  <p>Your brief introduction here.</p>
-</div>
-
-<div align="center">
-  <h2>Skills</h2>
-  <p>Your skills list here.</p>
-</div>
-</div>
-
