@@ -2,10 +2,13 @@
 💻 I’m currently working on a Full Stack Web Project<br>📖 I’m currently learning Java, Jest and Next.js<br>
 
 ## Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,materialui,mongodb,nodejs,express,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,tailwind,mongodb,nodejs,express,react,)](https://skillicons.dev)
 
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,postman,vite,vscode,idea,atom)](https://skillicons.dev)
+
+## Learning:
+[![My Skills](https://skillicons.dev/icons?i=java,jest,nextjs)](https://skillicons.dev)
 
 
 ---
