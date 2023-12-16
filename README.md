@@ -7,6 +7,6 @@ I am Yevheniia!👋<br><br>💻 I’m currently working on a Full Stack Web Proj
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AtharvaK-15&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YevheniiaSimaka&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 
