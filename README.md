@@ -11,7 +11,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,jest,nextjs)](https://skillicons.dev)
 
 ## Find me:
-<img src="![image](https://github.com/YevheniiaSimaka/YevheniiaSimaka/assets/112284703/0eb1f6b2-c53d-4ebc-9871-27d0077e3a68)" width="100px" height="100px" />
+<a href="https://medium.com/@yevheniiasimaka"> 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="100px" height="100px" />
+</a>
 
 <br>
 
