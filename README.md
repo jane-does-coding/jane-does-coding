@@ -15,7 +15,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="50px" height="50px" />
 </a>
 <a href="https://dribbble.com/YevheniiaS"> 
-<img src="https://cdn-icons-png.flaticon.com/512/3536/3536685.png " width="50px" height="50px" />
+<img src="https://cdn-icons-png.flaticon.com/512/3536/3536685.png" width="50px" height="50px" />
 </a>
 
 <br>
