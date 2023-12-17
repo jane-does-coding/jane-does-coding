@@ -11,10 +11,10 @@
 [![My Skills](https://skillicons.dev/icons?i=java,jest,nextjs)](https://skillicons.dev)
 
 ## Find me:
-<a style="text-decoration: none;" href="https://medium.com/@yevheniiasimaka"> 
+<a href="https://medium.com/@yevheniiasimaka" style="text-decoration: none;" > 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" style="text-decoration: none;" width="50px" height="50px" />
 </a>
-<a style="text-decoration: none;" href="https://dribbble.com/YevheniiaS"> 
+<a href="https://dribbble.com/YevheniiaS" style="text-decoration: none;" > 
 <img src="https://cdn-icons-png.flaticon.com/512/3536/3536685.png" style="text-decoration: none;" width="50px" height="50px" />
 </a>
 
