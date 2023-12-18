@@ -1,5 +1,4 @@
 # I am Yevheniia!👋
-💻 I’m currently working on a Full Stack Web Project<br>📖 I’m currently learning Java, Jest and Next.js<br>
 
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,tailwind,mongodb,nodejs,express,react,)](https://skillicons.dev)
