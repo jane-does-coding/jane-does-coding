@@ -29,7 +29,7 @@
 ### Frontend  
 <div align="center">  
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,tailwind,mongodb,nodejs,express,react,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,tailwind,mongodb,nodejs,express,react&perline=4)](https://skillicons.dev)
 </div>
 
 </td><td valign="top" width="33%">
