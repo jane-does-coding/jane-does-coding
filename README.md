@@ -1,12 +1,12 @@
 # I am Yevheniia!👋
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="33%">
 
 ### Languages  
 <div align="center">  
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,tailwind,mongodb,nodejs,express,react&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,tailwind,bootstrap,mongodb,nodejs,express,react&perline=4)](https://skillicons.dev)
 </div>
 
 </td><td valign="top" width="33%">
