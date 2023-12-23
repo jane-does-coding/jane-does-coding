@@ -16,6 +16,9 @@
 <a href="https://dribbble.com/YevheniiaS" style="text-decoration: none;" > 
 <img src="https://cdn-icons-png.flaticon.com/512/3536/3536685.png" style="text-decoration: none;" width="50px" height="50px" />
 </a>
+<a href="https://leetcode.com/YevheniiaS/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="50px" height="50px" />
+</a>
 
 <br>
 
