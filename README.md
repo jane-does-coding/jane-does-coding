@@ -6,9 +6,6 @@
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,postman,vite,vscode,idea,atom,figma)](https://skillicons.dev)
 
-## Learning:
-[![My Skills](https://skillicons.dev/icons?i=java,jest,nextjs)](https://skillicons.dev)
-
 ## Find me:
 <a href="https://medium.com/@yevheniiasimaka" style="text-decoration: none;" > 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" style="text-decoration: none;" width="50px" height="50px" />
