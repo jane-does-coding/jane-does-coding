@@ -18,10 +18,6 @@
 <img src="https://github.com/YevheniiaSimaka/YevheniiaSimaka/assets/112284703/23a1a669-1479-42a4-81ab-ad34d012ba97" width="50px" height="50px" />
 </a>
 
-<a href="https://leetcode.com/YevheniiaS/" width="50px" height="50px"  >
-  
-![leetcode2](https://github.com/YevheniiaSimaka/YevheniiaSimaka/assets/112284703/23a1a669-1479-42a4-81ab-ad34d012ba97)
-</a>
 
 <br>
 
