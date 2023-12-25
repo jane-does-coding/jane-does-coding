@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://leetcode.com/YevheniiaS/">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3629476-3031539.png" width="50px" height="50px" />
+<img src="https://github.com/YevheniiaSimaka/YevheniiaSimaka/assets/112284703/23a1a669-1479-42a4-81ab-ad34d012ba97" width="50px" height="50px" />
 </a>
 
 <a href="https://leetcode.com/YevheniiaS/" width="50px" height="50px"  >
