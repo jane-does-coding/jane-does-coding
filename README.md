@@ -1,6 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
-# I am Yevheniia!👋
 
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,tailwind,bootstrap,sass,mongodb,nodejs,express,react)](https://skillicons.dev)
