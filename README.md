@@ -1,6 +1,6 @@
 
 ## Languages:
-[comment]: <> (a reference style link.)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,tailwind,bootstrap,sass,mongodb,nodejs,express,react)](https://skillicons.dev)
 
 ## Tools:
