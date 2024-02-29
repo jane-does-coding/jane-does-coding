@@ -1,5 +1,5 @@
 
-## Languages:
+## Languages & Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,materialui,tailwind,bootstrap,sass,jquery,mongodb,nodejs,express,react,nextjs,prisma)](https://skillicons.dev)
 
