@@ -13,7 +13,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YevheniiaSimaka&theme=gotham&hide_border=true)](https://git.io/streak-stats) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiaSimaka&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiaSimaka&layout=compact&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YevheniiaSimaka&show_icons=true&theme=dark&rank_icon=github)
 
