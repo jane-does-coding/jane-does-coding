@@ -13,9 +13,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YevheniiaSimaka&theme=gotham&hide_border=true)](https://git.io/streak-stats) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiaSimaka&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiaSimaka&layout=compact&theme=gotham&hide_border=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YevheniiaSimaka&show_icons=true&theme=gotham&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YevheniiaSimaka&show_icons=true&theme=gotham&hide_border=true&rank_icon=github)
 
 
 ---
