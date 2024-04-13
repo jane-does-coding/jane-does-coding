@@ -1,3 +1,9 @@
+# About me
+
+~ I'm learning Nextjs
+~ I like programming
+~ I'm self taught developer
+
 
 ## Languages & Technologies:
 
