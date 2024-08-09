@@ -15,6 +15,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jane-does-coding&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
 
-![Yevheniia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jane-does-coding&show_icons=true&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jane-does-coding&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![Yevheniia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jane-does-coding&show_icons=true&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jane-does-coding&layout=compact&theme=dark&hide_border=true&hide=html,css)
 
 ---
