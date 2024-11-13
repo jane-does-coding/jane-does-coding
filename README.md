@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" /> </p>
+
 
 ## Languages & Technologies:
 
