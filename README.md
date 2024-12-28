@@ -1,5 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" /> </p>
 
+## Socials
+
+Linkedin: https://www.linkedin.com/in/yevheniia-simaka/
+Dribbble: https://www.linkedin.com/in/yevheniia-simaka/
+Devpost: https://devpost.com/I-am-jane
+Leetcode: https://leetcode.com/u/jane-does-coding/
 
 ## Languages & Technologies:
 
