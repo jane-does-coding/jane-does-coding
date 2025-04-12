@@ -2,10 +2,6 @@
 
 ## Socials
 
-Linkedin: https://www.linkedin.com/in/yevheniia-simaka/
-
-Dribbble: https://www.linkedin.com/in/yevheniia-simaka/
-
 Devpost: https://devpost.com/I-am-jane
 
 Leetcode: https://leetcode.com/u/jane-does-coding/
