@@ -4,9 +4,9 @@
 
 ### 📸 Featured Projects
 
-[<img width="33%" alt="Eclipso" src="https://github.com/user-attachments/assets/00e9cb7c-2d1d-4001-8639-9230f6cb8bf2" />](https://devpost.com/software/eclipso)
-[<img width="33%" alt="Carbon Calculator" src="https://github.com/user-attachments/assets/f25b48e3-b718-46a9-ae1f-b812d318de56" />](https://devpost.com/software/footprint)
-[<img width="33%" alt="Aqua Store" src="https://github.com/user-attachments/assets/04852fff-5b2b-41ee-bc34-367fd53c1c75" />](https://devpost.com/software/aqua)
+[<img width="33%" alt="Devpost" src="https://github.com/user-attachments/assets/00e9cb7c-2d1d-4001-8639-9230f6cb8bf2" />](https://devpost.com/software/eclipso](https://devpost.com/I-am-jane))
+[<img width="33%" alt="Dribbble" src="https://github.com/user-attachments/assets/f25b48e3-b718-46a9-ae1f-b812d318de56" />](https://dribbble.com/jane-does-coding)
+[<img width="33%" alt="Linkedin" src="https://github.com/user-attachments/assets/04852fff-5b2b-41ee-bc34-367fd53c1c75" />](https://www.linkedin.com/in/yevheniia-simaka/)
 
 <br>
 
