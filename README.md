@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" /> </p>
 
-👩‍💻 Web Dev | Next.js, TypeScript, Tailwind 🏅 Hackathon Winner 
-🙌 Open to Internships 2025 
-😎 I make websites actually fun to use 
+- 👩‍💻 Web Dev | Next.js, TypeScript, Tailwind 🏅 Hackathon Winner 
+- 🙌 Open to Internships 2025 
+- 😎 I make websites actually fun to use 
 
 ## Socials
 
