@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" /> </p>
 
 
-<img width="30%" alt="Screenshot 2025-05-02 at 8 58 43 AM" src="https://github.com/user-attachments/assets/00e9cb7c-2d1d-4001-8639-9230f6cb8bf2" /><img width="30%" alt="Screenshot 2025-05-02 at 8 59 13 AM" src="https://github.com/user-attachments/assets/f25b48e3-b718-46a9-ae1f-b812d318de56" /><img width="30%" alt="Screenshot 2025-05-02 at 8 59 53 AM" src="https://github.com/user-attachments/assets/04852fff-5b2b-41ee-bc34-367fd53c1c75" />
+<img width="33%" alt="Screenshot 2025-05-02 at 8 58 43 AM" src="https://github.com/user-attachments/assets/00e9cb7c-2d1d-4001-8639-9230f6cb8bf2" /><img width="33%" alt="Screenshot 2025-05-02 at 8 59 13 AM" src="https://github.com/user-attachments/assets/f25b48e3-b718-46a9-ae1f-b812d318de56" /><img width="33%" alt="Screenshot 2025-05-02 at 8 59 53 AM" src="https://github.com/user-attachments/assets/04852fff-5b2b-41ee-bc34-367fd53c1c75" />
 
 
 
