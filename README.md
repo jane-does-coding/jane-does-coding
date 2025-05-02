@@ -1,21 +1,28 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" /> 
+</p>
 
+### 📸 Featured Projects
 
-<img width="33%" alt="Screenshot 2025-05-02 at 8 58 43 AM" src="https://github.com/user-attachments/assets/00e9cb7c-2d1d-4001-8639-9230f6cb8bf2" /><img width="33%" alt="Screenshot 2025-05-02 at 8 59 13 AM" src="https://github.com/user-attachments/assets/f25b48e3-b718-46a9-ae1f-b812d318de56" /><img width="33%" alt="Screenshot 2025-05-02 at 8 59 53 AM" src="https://github.com/user-attachments/assets/04852fff-5b2b-41ee-bc34-367fd53c1c75" />
+[<img width="33%" alt="Eclipso" src="https://github.com/user-attachments/assets/00e9cb7c-2d1d-4001-8639-9230f6cb8bf2" />](https://devpost.com/software/eclipso)
+[<img width="33%" alt="Carbon Calculator" src="https://github.com/user-attachments/assets/f25b48e3-b718-46a9-ae1f-b812d318de56" />](https://devpost.com/software/footprint)
+[<img width="33%" alt="Aqua Store" src="https://github.com/user-attachments/assets/04852fff-5b2b-41ee-bc34-367fd53c1c75" />](https://devpost.com/software/aqua)
 
+<br>
 
+🔗 [Eclipso – Gamified Habit Tracker](https://devpost.com/software/eclipso)  
+🔗 [Footprint – Carbon Calculator](https://devpost.com/software/footprint)  
+🔗 [Aqua – Aquarium E-commerce Site](https://devpost.com/software/aqua)
 
+---
 
-
-
-- 👩‍💻 Web Dev | Next.js, TypeScript, Tailwind 🏅 Hackathon Winner 
-- 🙌 Open to Internships 2025 
-- 😎 I make websites actually fun to use 
+- 👩‍💻 Web Dev | Next.js, TypeScript, Tailwind 🏅 Hackathon Winner  
+- 🙌 Open to Internships 2025  
+- 😎 I make websites actually fun to use
 
 ## Socials
 
-Devpost: https://devpost.com/I-am-jane
-
+Devpost: https://devpost.com/I-am-jane  
 Leetcode: https://leetcode.com/u/jane-does-coding/
 
 <br>
@@ -25,17 +32,16 @@ Leetcode: https://leetcode.com/u/jane-does-coding/
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,materialui,tailwind,bootstrap,sass,mongodb,nodejs,express,react,nextjs,prisma)](https://skillicons.dev)
 
 ## Tools:
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vite,vscode,idea,atom,bash,figma)](https://skillicons.dev)
 
 <br>
 
 ---
-### :fire: My Stats :
 
+### :fire: My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jane-does-coding&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jane-does-coding&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-
-![Yevheniia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jane-does-coding&show_icons=true&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jane-does-coding&layout=compact&theme=dark&hide_border=true&hide=python)
-
----
+![Yevheniia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jane-does-coding&show_icons=true&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jane-does-coding&layout=compact&theme=dark&hide_border=true&hide=python)
