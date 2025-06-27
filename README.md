@@ -5,7 +5,6 @@
 ---
 
 - 👩‍💻 Web Dev | Next.js, TypeScript, Tailwind 🏅 Hackathon Winner  
-- 🙌 Open to Internships 2025  
 - 😎 I make websites actually fun to use
 
 <br>
