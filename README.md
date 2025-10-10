@@ -15,7 +15,9 @@
 <img width="100%" height="128" alt="Frame 21" src="https://github.com/user-attachments/assets/e9426765-28a9-4b1a-92b5-880ffc00363b" />
 
 
-<br />
+<br >
+<br >
+<br >
 
 
 - 👩‍💻 Web Dev | Next.js, TypeScript, Tailwind 🏅 Hackathon Winner  
