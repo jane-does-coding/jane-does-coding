@@ -5,7 +5,8 @@
 
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" />  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" />  
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </p>
 
 ---
