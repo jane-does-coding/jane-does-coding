@@ -1,3 +1,7 @@
+
+<img width="100%" height="952" alt="Frame 19" src="https://github.com/user-attachments/assets/b6787795-3ac3-4047-a11b-53939c236844" />
+
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" /> 
 </p>
