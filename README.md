@@ -1,8 +1,7 @@
 
 <img width="100%" height="242" alt="Frame 20" src="https://github.com/user-attachments/assets/92270b3b-256a-4a85-b9f9-2d4995ec4143" />
-<img width="100%" height="128" alt="Frame 21" src="https://github.com/user-attachments/assets/e9426765-28a9-4b1a-92b5-880ffc00363b" />
 
-<img width="100%" height="104" alt="Frame 22" src="https://github.com/user-attachments/assets/e1667fa6-0d1b-488a-84e1-0ed3f2caa925" />
+<img width="100%" height="104" alt="Frame 22 (1)" src="https://github.com/user-attachments/assets/3a35c116-bb08-42f5-b441-62d0c53dc04f" />
 
 <img width="100%" height="952" alt="Frame 19 (1)" src="https://github.com/user-attachments/assets/9685403b-293b-4628-9c29-c9e4a26bfdce" />
 
@@ -10,6 +9,10 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" /> 
 </p>
+
+---
+
+<img width="100%" height="128" alt="Frame 21" src="https://github.com/user-attachments/assets/e9426765-28a9-4b1a-92b5-880ffc00363b" />
 
 ---
 
