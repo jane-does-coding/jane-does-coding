@@ -1,4 +1,5 @@
 
+
 <img width="100%" height="242" alt="Frame 20" src="https://github.com/user-attachments/assets/92270b3b-256a-4a85-b9f9-2d4995ec4143" />
 
 <img width="100%" height="952" alt="Frame 19 (1)" src="https://github.com/user-attachments/assets/9685403b-293b-4628-9c29-c9e4a26bfdce" />
@@ -13,13 +14,15 @@
 <img width="100%" height="128" alt="Frame 21" src="https://github.com/user-attachments/assets/e9426765-28a9-4b1a-92b5-880ffc00363b" />
 
 
+<img width="7092" height="245" alt="rope" src="https://github.com/user-attachments/assets/932c0ff4-a2e0-48b5-83e2-dd6931b25d0a" />
+
+
 <br >
 <br >
 <br >
 
 
-- 👩‍💻 Web Dev | Next.js, TypeScript, Tailwind 🏅 Hackathon Winner  
-- 😎 I make websites actually fun to use
+<img width="7092" height="245" alt="rope" src="https://github.com/user-attachments/assets/932c0ff4-a2e0-48b5-83e2-dd6931b25d0a" />
 
 <br>
 
@@ -33,7 +36,7 @@
 
 <br>
 
----
+<img width="7092" height="245" alt="rope" src="https://github.com/user-attachments/assets/932c0ff4-a2e0-48b5-83e2-dd6931b25d0a" />
 
 ### :fire: My Stats:
 
