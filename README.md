@@ -9,10 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=jane-does-coding&label=Profile%20views&color=0e75b6&style=flat" alt="jane-does-coding" /> 
 </p>
 
-<br >
-
-<img width="100%" height="128" alt="Frame 21" src="https://github.com/user-attachments/assets/e9426765-28a9-4b1a-92b5-880ffc00363b" />
-
 
 <img width="7092" height="245" alt="rope" src="https://github.com/user-attachments/assets/932c0ff4-a2e0-48b5-83e2-dd6931b25d0a" />
 
