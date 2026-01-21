@@ -20,7 +20,7 @@
 
 ## Languages & Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,materialui,tailwind,bootstrap,sass,mongodb,nodejs,express,react,nextjs,prisma,supabase,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,materialui,tailwind,bootstrap,sass,mongodb,nodejs,express,react,nextjs,prisma,supabase,svelte,godot)](https://skillicons.dev)
 
 ## Tools:
 
