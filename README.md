@@ -29,8 +29,6 @@
 
 <br>
 
-<img width="7092" height="245" alt="rope" src="https://github.com/user-attachments/assets/932c0ff4-a2e0-48b5-83e2-dd6931b25d0a" />
-
 ### :fire: My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jane-does-coding&theme=dark&hide_border=true)](https://git.io/streak-stats)
