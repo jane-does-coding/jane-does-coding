@@ -5,6 +5,8 @@
 
 # Events I've Organized!
 
+<img width="3840" height="941" alt="sunbeam-banner (1)" src="https://github.com/user-attachments/assets/36572a76-4ec9-4d6c-95e5-b0193f90e1c9" />
+
 <img width="3840" height="941" alt="sunbeam-banner" src="https://github.com/user-attachments/assets/96aff585-1461-4596-ba09-5bf0b26f3ee7" />
 
 <img width="3840" height="941" alt="campfire-utah-banenr (1)" src="https://github.com/user-attachments/assets/a8eca227-ed75-445f-bf84-9be5d75661c4" />
