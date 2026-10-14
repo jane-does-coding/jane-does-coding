@@ -13,8 +13,8 @@
 
 | Image | Description |
 | --- | --- |
-| <img width="100%" height="850" alt="marionette" src="https://github.com/user-attachments/assets/569a5115-3302-4522-b05f-8bc7ffb90c71" /> | Marionette Doll Website THis is somet test text to see how this readme would adjust |
-| <img width="100%" height="1075" alt="what-the-duck" src="https://github.com/user-attachments/assets/46a2da1b-8771-4c2e-bfde-69728574c7f8" /> | What the Duck |
+| <img width="100%" height="850" alt="marionette" src="https://github.com/user-attachments/assets/569a5115-3302-4522-b05f-8bc7ffb90c71" /> | A website where a Marionette Doll is exploring the ethics of AI use in creative fields and artwork. Made with custom art and custom animations in Procreate. |
+| <img width="100%" height="1075" alt="what-the-duck" src="https://github.com/user-attachments/assets/46a2da1b-8771-4c2e-bfde-69728574c7f8" /> | What the Duck, a website which won Waystar Hackathon Hack the SDLC 2026 Sponsored by Nasdaq, where I made AI tools which can help improve Sprint Planning in SDLC. |
 
 
 <br>
