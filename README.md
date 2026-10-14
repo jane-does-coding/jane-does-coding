@@ -3,12 +3,12 @@
 <img width="100%" height="242" alt="Frame 20" src="https://github.com/user-attachments/assets/92270b3b-256a-4a85-b9f9-2d4995ec4143" />
 
 
-<img width="3840" height="1014" alt="sunbeam" src="https://github.com/user-attachments/assets/69710ea1-7e4c-4cfb-8650-31b9ee04534d" />
+# Events I've Organized!
+
+<img width="3840" height="941" alt="sunbeam-banner" src="https://github.com/user-attachments/assets/96aff585-1461-4596-ba09-5bf0b26f3ee7" />
 
 
-# Hack Club!!
-
-<img width="33%" height="601" alt="Screenshot 2025-12-21 at 3 56 24 PM" src="https://github.com/user-attachments/assets/168db758-bf79-43e2-9509-6ab28d0710d0" /><img width="33%" height="601" alt="Screenshot 2025-12-21 at 3 56 36 PM" src="https://github.com/user-attachments/assets/4e62dc10-302f-4fac-bcca-7a3386645a38" /><img width="33%" height="601" alt="Screenshot 2025-12-21 at 3 57 02 PM" src="https://github.com/user-attachments/assets/4db388dc-4dda-4990-ac72-3c78fef01a81" />
+<img width="3840" height="941" alt="campfire-utah-banenr" src="https://github.com/user-attachments/assets/fe51ab1b-e693-4b7e-929d-83e09c2b8df4" />
 
 
 
