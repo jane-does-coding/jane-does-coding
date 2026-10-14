@@ -11,10 +11,9 @@
 
 # Some projects I'm proud of:
 
-| Page | Scene |
 | --- | --- |
-| <img width="1710" height="950" alt="marionette" src="https://github.com/user-attachments/assets/569a5115-3302-4522-b05f-8bc7ffb90c71" /> | Marionette Doll Website |
-| <img width="2048" height="1175" alt="what-the-duck" src="https://github.com/user-attachments/assets/46a2da1b-8771-4c2e-bfde-69728574c7f8" /> | What the Duck |
+| <img width="1710" height="950" alt="marionette" src="https://github.com/user-attachments/assets/569a5115-3302-4522-b05f-8bc7ffb90c71" /> | <img width="2048" height="1175" alt="what-the-duck" src="https://github.com/user-attachments/assets/46a2da1b-8771-4c2e-bfde-69728574c7f8" /> |
+| Marionette Doll Wbesite | What the Duck |
 
 <img width="1710" height="950" alt="marionette" src="https://github.com/user-attachments/assets/569a5115-3302-4522-b05f-8bc7ffb90c71" />
 
