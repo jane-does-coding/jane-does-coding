@@ -1,7 +1,5 @@
 
-
-<img width="100%" height="242" alt="Frame 20" src="https://github.com/user-attachments/assets/92270b3b-256a-4a85-b9f9-2d4995ec4143" />
-
+<img width="1710" height="161" alt="Frame 20" src="https://github.com/user-attachments/assets/84272a26-c8b8-4053-898a-205a44a0e670" />
 
 # Events I've Organized!
 
